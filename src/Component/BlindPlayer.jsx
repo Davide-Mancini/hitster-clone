@@ -4,15 +4,20 @@ import { Button } from "react-bootstrap";
 import { PauseFill, Play, PlayFill } from "react-bootstrap-icons";
 const BlindPlayer = ({ trackId }) => {
   const audioRef = useRef(null);
+  const [isPlaying, setIsPlaying] = useState(false);
+  const [blur1, setBlur1] = useState("blur-text");
+  const [blur2, setBlur2] = useState("blur-text");
+  const [blur3, setBlur3] = useState("blur-text");
   useEffect(() => {
     const track = tracks[trackId];
     if (!track) return;
     const audio = audioRef.current;
-    audio.src = `/audio/${track.file}`;
+    audio.src = `${import.meta.env.BASE_URL}/audio/${track.file}`;
     audio.currentTime = track.start;
 
     const timeout = setTimeout(() => {
       audio.pause();
+      setIsPlaying(false);
     }, track.duration * 1000);
     return () => clearTimeout(timeout);
   }, [trackId]);
@@ -22,16 +27,12 @@ const BlindPlayer = ({ trackId }) => {
   const handlePause = () => {
     audioRef.current.pause();
   };
-  const [isPlaying, setIsPlaying] = useState(false);
-  const [blur1, setBlur1] = useState("blur-text");
-  const [blur2, setBlur2] = useState("blur-text");
-  const [blur3, setBlur3] = useState("blur-text");
   return (
     <>
       <audio ref={audioRef} />
       <div style={{ width: "150px", position: "relative" }} className="   ">
         <img
-          src={`${import.meta.env.BASE_URL}/img/Gemini_Generated_Image_thpp1qthpp1qthpp-removebg-preview (1).png`}
+          src={`${import.meta.env.BASE_URL}img/Gemini_Generated_Image_thpp1qthpp1qthpp-removebg-preview (1).png`}
           alt=""
           className=" w-100"
         />
