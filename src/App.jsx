@@ -7,7 +7,7 @@ import Play from "./Component/Play";
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/hitster-clone">
         <Routes>
           <Route path="/" element={<Homepage />} />
           <Route path="/play/:id" element={<Play />} />
