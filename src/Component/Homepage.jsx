@@ -30,7 +30,11 @@ const Homepage = () => {
                 const id = parts[parts.length - 1];
 
                 if (id) {
-                  navigate(`/play/${id}`);
+                  setQrVisible(false);
+
+                  setTimeout(() => {
+                    navigate(`/play/${id}`);
+                  }, 100);
                 }
               }}
             />
