@@ -33,8 +33,8 @@ const Homepage = () => {
                   setQrVisible(false);
 
                   setTimeout(() => {
-                    navigate(`/play/${id}`);
-                  }, 100);
+                    navigate(`/play/${id}`, { replace: true });
+                  }, 200);
                 }
               }}
             />
