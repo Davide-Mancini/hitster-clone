@@ -9,8 +9,8 @@ const Homepage = () => {
   const [qrVisible, setQrVisible] = useState(false);
   return (
     <>
-      <div className="gradiente text-center bg-dark vh-100 text-light d-flex flex-column  ">
-        <h1 className=" title-text mt-4">SARA BANDA</h1>
+      <div className="gradiente text-center bg-dark  text-light d-flex flex-column min-vh-100  ">
+        <h1 className=" title-text mt-4">INDOVINA CAZZONE!</h1>
         {/* <p style={{ fontWeight: "700" }}>INDOVINA CAZZONE!</p> */}
         {qrVisible && (
           <div style={{ width: "100%", display: `${qrVisible}` }}>
