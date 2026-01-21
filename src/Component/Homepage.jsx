@@ -34,6 +34,7 @@ const Homepage = () => {
 
                   setTimeout(() => {
                     navigate(`/play/${id}`, { replace: true });
+                    window.location.reload();
                   }, 200);
                 }
               }}
