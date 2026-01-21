@@ -14,7 +14,7 @@ export default function QRScanner({ onScan }) {
       },
       (err) => {
         console.log(err);
-      }
+      },
     );
 
     return () => qrCodeScanner.stop();

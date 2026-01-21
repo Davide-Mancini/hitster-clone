@@ -2,8 +2,10 @@ import { Button, Container, Row } from "react-bootstrap";
 import QRScanner from "./QRScanner";
 import { useState } from "react";
 import "../Style/Homepage.css";
+import { useNavigate } from "react-router-dom";
 
 const Homepage = () => {
+  const navigate = useNavigate();
   const [qrVisible, setQrVisible] = useState(false);
   return (
     <>
@@ -22,7 +24,16 @@ const Homepage = () => {
                 className=" w-100"
               />
             </div>
-            <QRScanner onScan={console.log("QR Code letto!")} />
+            <QRScanner
+              onScan={(data) => {
+                const parts = data.split("/");
+                const id = parts[parts.length - 1];
+
+                if (id) {
+                  navigate(`/play/${id}`);
+                }
+              }}
+            />
           </div>
         )}
 
