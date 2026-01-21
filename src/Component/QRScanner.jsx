@@ -9,6 +9,7 @@ export default function QRScanner({ onScan }) {
       { facingMode: "environment" },
       { fps: 10, qrbox: 250 },
       (decodedText) => {
+        alert("QR Rilevato: " + decodedText);
         onScan(decodedText);
         qrCodeScanner.stop();
       },
