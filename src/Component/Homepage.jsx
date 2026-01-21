@@ -17,7 +17,7 @@ const Homepage = () => {
               className="mx-auto  "
             >
               <img
-                src="/img/Gemini_Generated_Image_ps9vrops9vrops9v-removebg-preview (1).png"
+                src={`${import.meta.env.BASE_URL}/img/Gemini_Generated_Image_ps9vrops9vrops9v-removebg-preview (1).png`}
                 alt=""
                 className=" w-100"
               />
@@ -51,7 +51,7 @@ const Homepage = () => {
               className="mx-auto  mt-auto "
             >
               <img
-                src="public/img/NanoBanana-2026-01-20-removebg-preview.png"
+                src={`${import.meta.env.BASE_URL}/img/NanoBanana-2026-01-20-removebg-preview.png`}
                 alt=""
                 className=" w-100 "
               />
