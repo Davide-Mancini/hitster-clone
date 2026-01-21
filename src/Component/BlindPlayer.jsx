@@ -23,6 +23,9 @@ const BlindPlayer = ({ trackId }) => {
     audioRef.current.pause();
   };
   const [isPlaying, setIsPlaying] = useState(false);
+  const [blur1, setBlur1] = useState("blur-text");
+  const [blur2, setBlur2] = useState("blur-text");
+  const [blur3, setBlur3] = useState("blur-text");
   return (
     <>
       <audio ref={audioRef} />
@@ -33,21 +36,36 @@ const BlindPlayer = ({ trackId }) => {
           className=" w-100"
         />
       </div>
-      <div class="cards ">
-        <div class="card red">
+      <div className="cards ">
+        <div
+          className="card red"
+          onClick={() => {
+            setBlur1("no-blur-text");
+          }}
+        >
           <h1 className=" card-text text-center">CANZONE</h1>
           {/* <p class="tip">Hover Me</p> */}
-          <p class="second-text">Lorem Ipsum</p>
+          <p className={`second-text ${blur1}`}>{tracks[trackId]?.titolo}</p>
         </div>
-        <div class="card blue">
+        <div
+          className="card blue"
+          onClick={() => {
+            setBlur2("no-blur-text");
+          }}
+        >
           <h1 className=" card-text text-center">ANNO</h1>
           {/* <p class="tip">Hover Me</p> */}
-          <p class="second-text">Lorem Ipsum</p>
+          <p className={`second-text ${blur2}`}>{tracks[trackId]?.anno}</p>
         </div>
-        <div class="card green">
+        <div
+          className="card green"
+          onClick={() => {
+            setBlur3("no-blur-text");
+          }}
+        >
           <h1 className=" card-text text-center">AUTORE</h1>
           {/* <p class="tip">Hover Me</p> */}
-          <p class="second-text">Lorem Ipsum</p>
+          <p className={`second-text ${blur3}`}>{tracks[trackId]?.autore}</p>
         </div>
       </div>
 

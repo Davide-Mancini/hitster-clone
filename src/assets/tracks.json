@@ -2,1501 +2,2401 @@
     "001": {
         "file": "Giorgio Poi - Tubature.mp3",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "Tubature",
+        "autore": "Giorgio Poi",
+        "anno": "2017"
     },
     "002": {
         "file": "Verano Zombie.mp3",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "Verano Zombie",
+        "autore": "Noyz Narcos",
+        "anno": "2005"
     },
     "003": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "004": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "005": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "006": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "007": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "008": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "009": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "010": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "011": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "012": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "013": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "014": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "015": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "016": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "017": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "018": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "019": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "020": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "021": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "022": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "023": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "024": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "025": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "026": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "027": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "028": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "029": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "030": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "031": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "032": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "033": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "034": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "035": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "036": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "037": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "038": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "039": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "040": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "041": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "042": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "043": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "044": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "045": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "046": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "047": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "048": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "049": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "050": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "051": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "052": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "053": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "054": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "055": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "056": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "057": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "058": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "059": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "060": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "061": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "062": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "063": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "064": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "065": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "066": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "067": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "068": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "069": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "070": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "071": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "072": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "073": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "074": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "075": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "076": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "077": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "078": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "079": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "080": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "081": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "082": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "083": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "084": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "085": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "086": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "087": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "088": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "089": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "090": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "091": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "092": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "093": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "094": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "095": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "096": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "097": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "098": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "099": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "100": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "101": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "102": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "103": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "104": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "105": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "106": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "107": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "108": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "109": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "110": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "111": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "112": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "113": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "114": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "115": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "116": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "117": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "118": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "119": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "120": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "121": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "122": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "123": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "124": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "125": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "126": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "127": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "128": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "129": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "130": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "131": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "132": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "133": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "134": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "135": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "136": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "137": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "138": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "139": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "140": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "141": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "142": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "143": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "144": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "145": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "146": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "147": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "148": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "149": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "150": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "151": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "152": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "153": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "154": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "155": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "156": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "157": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "158": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "159": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "160": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "161": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "162": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "163": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "164": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "165": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "166": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "167": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "168": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "169": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "170": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "171": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "172": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "173": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "174": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "175": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "176": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "177": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "178": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "179": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "180": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "181": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "182": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "183": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "184": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "185": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "186": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "187": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "188": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "189": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "190": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "191": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "192": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "193": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "194": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "195": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "196": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "197": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "198": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "199": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "200": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "201": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "202": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "203": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "204": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "205": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "206": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "207": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "208": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "209": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "210": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "211": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "212": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "213": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "214": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "215": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "216": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "217": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "218": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "219": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "220": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "221": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "222": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "223": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "224": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "225": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "226": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "227": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "228": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "229": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "230": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "231": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "232": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "233": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "234": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "235": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "236": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "237": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "238": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "239": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "240": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "241": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "242": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "243": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "244": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "245": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "246": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "247": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "248": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "249": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "250": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "251": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "252": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "253": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "254": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "255": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "256": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "257": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "258": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "259": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "260": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "261": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "262": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "263": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "264": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "265": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "266": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "267": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "268": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "269": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "270": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "271": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "272": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "273": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "274": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "275": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "276": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "277": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "278": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "279": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "280": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "281": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "282": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "283": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "284": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "285": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "286": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "287": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "288": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "289": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "290": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "291": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "292": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "293": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "294": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "295": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "296": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "297": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "298": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "299": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     },
     "300": {
         "file": "",
         "start": 0,
-        "duration": 60
+        "duration": 60,
+        "titolo": "",
+        "autore": "",
+        "anno": ""
     }
 }

@@ -342,7 +342,8 @@
   text-align: center;
   height: 100px;
   width: 250px;
-  border-radius: 10px;
+  border: 2px solid black;
+  border-radius: 0px;
   color: white;
   cursor: pointer;
   transition: 400ms;
@@ -356,7 +357,6 @@
 .cards .card p.second-text {
   font-size: 2em;
   font-weight: 900;
-  filter: blur(9px);
 }
 
 .cards .card:hover {
@@ -366,4 +366,11 @@
 .cards:hover > .card:not(:hover) {
   filter: blur(10px);
   transform: scale(0.9, 0.9);
+}
+.blur-text {
+  filter: blur(9px);
+}
+.no-blur-text {
+  filter: blur(0px);
+  transition: 2s;
 }
