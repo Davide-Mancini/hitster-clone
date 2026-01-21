@@ -31,7 +31,7 @@ const BlindPlayer = ({ trackId }) => {
       <audio ref={audioRef} />
       <div style={{ width: "150px", position: "relative" }} className="   ">
         <img
-          src="/img/Gemini_Generated_Image_thpp1qthpp1qthpp-removebg-preview (1).png"
+          src={`${import.meta.env.BASE_URL}/img/Gemini_Generated_Image_thpp1qthpp1qthpp-removebg-preview (1).png`}
           alt=""
           className=" w-100"
         />
