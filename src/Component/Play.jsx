@@ -8,7 +8,7 @@ const Play = () => {
   const { id } = useParams();
   return (
     <>
-      <Container className=" bg-dark vh-100 text-light d-flex flex-column justify-content-center align-items-center">
+      <Container className=" bg-dark min-vh-100 text-light d-flex flex-column justify-content-center align-items-center">
         <GameScreen />
         <BlindPlayer trackId={id} />
       </Container>
