@@ -3,14 +3,18 @@ import QRScanner from "./QRScanner";
 import { useState } from "react";
 import "../Style/Homepage.css";
 import { useNavigate } from "react-router-dom";
+import usePageTracking from "../Utils/usePageTracking";
+import CookieBanner from "./CookieBanner";
 
 const Homepage = () => {
   const navigate = useNavigate();
   const [qrVisible, setQrVisible] = useState(false);
+  usePageTracking();
   return (
     <>
+      <CookieBanner />
       <div className="gradiente text-center bg-dark  text-light d-flex flex-column min-vh-100  ">
-        <h1 className=" title-text mt-4">INDOVINA CAZZONE!</h1>
+        <h1 className=" title-text mt-4">ESPANSIONE HITSTER</h1>
         {/* <p style={{ fontWeight: "700" }}>INDOVINA CAZZONE!</p> */}
         {qrVisible && (
           <div style={{ width: "100%", display: `${qrVisible}` }}>

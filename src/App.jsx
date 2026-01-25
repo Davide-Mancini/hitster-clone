@@ -4,6 +4,8 @@ import Homepage from "./Component/Homepage";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { BrowserRouter, HashRouter, Route, Routes } from "react-router-dom";
 import Play from "./Component/Play";
+import CookieBanner from "./Component/CookieBanner";
+
 function App() {
   return (
     <>
