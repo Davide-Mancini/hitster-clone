@@ -39,7 +39,7 @@ const BlindPlayer = ({ trackId }) => {
       </div>
       <div className="cards ">
         <div
-          className="card red"
+          className="card red d-block overflow-scroll"
           onClick={() => {
             setBlur1("no-blur-text");
           }}
